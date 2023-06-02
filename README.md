@@ -637,9 +637,6 @@ Publish the website in the given URL.
 ![image](https://github.com/PSriVarshan/productcompanywebsite/assets/114944059/915683ad-f45e-4945-9072-3413978752b8)
 
 
-### Home Page:
-
-![output](./images/homepage.jpg)
 
 ## Result:
 
